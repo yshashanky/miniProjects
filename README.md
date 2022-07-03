@@ -1,2 +1,5 @@
-# miniProjects
-A collection of mini projects
+## Mini Projects
+
+### A collection of mini projects
+
+---
