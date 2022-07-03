@@ -1,6 +1,5 @@
 # pip install langdetect
 
-from turtle import pos
 from langdetect import detect
 from langdetect import DetectorFactory
 from langdetect import detect_langs
